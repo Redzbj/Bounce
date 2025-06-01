@@ -1,5 +1,5 @@
 local LocalPlayerUserId = game.Players.LocalPlayer.UserId
-local UserId = {8583131127,5335271770,4004157046} --填写UserID 需要,分开
+local UserId = {8583131127,5335271770,4004157046,7974222260} --填写UserID 需要,分开
 local function Bmd()
     for _, UserId in pairs(UserId) do
         if UserId == LocalPlayerUserId then
