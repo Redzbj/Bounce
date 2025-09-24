@@ -1,4 +1,4 @@
 local banned = {
-    ["00"] = "00"
+  ["Test"] = "?",
 }
 return banned
